@@ -1,8 +1,8 @@
 <h3 align="center">A passionate data scientist from India</h3>
 
-- 🔭 I’m currently working on **credit risk analysis**
+- 🔭 I’m currently working on **Bankruptcy Prediction**
 
-- 🌱 I’m currently learning **Data science , MySql,Powerbi**
+- 🌱 I’m currently learning **Data science , MySql,Powerbi,Excel**
 
 - 📫 How to reach me **achyuthkumarak4756@gmail.com**
 
