@@ -1,6 +1,6 @@
 <h3 align="center">A passionate data scientist from India</h3>
 
-- 🔭 I’m currently working on **Bankruptcy Prediction**
+- 🔭 I’m currently working on **Bankruptcy Prediction Project**
 
 - 🌱 I’m currently learning **Data science , MySql,Python**
 
