@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Bankruptcy Prediction**
 
-- 🌱 I’m currently learning **Data science , MySql,Powerbi,Excel**
+- 🌱 I’m currently learning **Data science , MySql,Python**
 
 - 📫 How to reach me **achyuthkumarak4756@gmail.com**
 
