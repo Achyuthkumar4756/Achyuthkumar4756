@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Bankruptcy Prediction Project**
 
-- 🌱 I’m currently learning **Data science , MySql,Python ,ML , NLP, Deep learning**
+- 🌱 I’m currently learning **Data science , MySql,Python,Flask,FastApi,Webscraping using Beautiful soup and Selenium,Automation,ML , NLP, Deep learning**
 
 - 📫 How to reach me **achyuthkumarak4756@gmail.com**
 
