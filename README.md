@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Learner from India</h3>
 
-- 🔭 I’m currently working on **Bankruptcy Prediction Project**
+- 🔭 I’m currently working on **Hotel Reviews Sentiment Analysis Project**
 
 - 🌱 I’m currently learning **Data science , MySql,Python,Flask,FastApi,Webscraping using Beautiful soup and Selenium,Automation,ML , NLP, Deep learning**
 
