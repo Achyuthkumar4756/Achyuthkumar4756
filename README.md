@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Hotel Reviews Sentiment Analysis Project**
 
-- 🌱 I’m currently learning **Data science , MySql,Python,Flask,FastApi,Webscraping using Beautiful soup and Selenium,Automation,ML , NLP, Deep learning**
+- 🌱 I’have good knowledge on **Data science ,WebDevelopment, MySql,Python,Flask,FastApi,Webscraping ,n,ML , NLP, Deep learning**
 
 - 📫 How to reach me **achyuthkumarak4756@gmail.com**
 
