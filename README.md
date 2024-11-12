@@ -1,8 +1,8 @@
 <h3 align="center">A passionate Learner from India</h3>
 
-- 🔭 I’m currently working on **Hotel Reviews Sentiment Analysis Project**
+- 🔭 I’m currently working on **Upi Transactions Data**
 
-- 🌱 I’have good knowledge on **Data science ,WebDevelopment, MySql,Python,Flask,FastApi,Webscraping ,ML , NLP, Deep learning**
+- 🌱 I’have good knowledge on **Data Analytics ,MSSQLSERVER, MySql,Python,Excel,Powerbi**
 
 - 📫 How to reach me **achyuthkumarak4756@gmail.com**
 
