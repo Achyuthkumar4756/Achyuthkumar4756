@@ -1,8 +1,18 @@
 <h3 align="center">A passionate Learner from India</h3>
 
-- 🔭 I’m currently working on **Upi Transactions Data**
+- 🌱 have good knowledge of **Data Analytics, MSSQLSERVER, MySql, Python, Excel, Powerbi**
 
-- 🌱 I’have good knowledge on **Data Analytics ,MSSQLSERVER, MySql,Python,Excel,Powerbi**
+- Hi there, Atchuth Kumar Reddy Danda
+
+About :
+
+🔭 I have completed my Bachelor in Computer Science Engineering from Rayalaseema University Kurnool Andhra Pradesh.
+
+🔭 I am passionate about Software development, Data Analytics, and Solving business problems using Strategies.
+
+👯 Worked as a Data Scientist as an Intern having 6 months of experience with AI Variant
+
+Skills:  Python | HTML | CSS | JavaScript | MySQl | MS Excel | Power BI |MS SQLSERVER | Data Analytics | Machine Learning | Probability and Random Variables | Applied Statistics
 
 - 📫 How to reach me **achyuthkumarak4756@gmail.com**
 
