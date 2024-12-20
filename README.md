@@ -12,7 +12,7 @@ About :
 
 👯 Worked as a Data Scientist as an Intern having 6 months of experience with AI Variant
 
-Skills:  Python | HTML | CSS | JavaScript | MySQl | MS Excel | Power BI |MS SQLSERVER | Data Analytics | Machine Learning | Probability and Random Variables | Applied Statistics
+Skills:  Python | HTML | CSS | JavaScript | MySQl | MS Excel | Power BI |MS SQLSERVER | Data Analytics | Machine Learning | Probability and Statistics | 
 
 - 📫 How to reach me **achyuthkumarak4756@gmail.com**
 
