@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Learner from India</h3>
 
-- 🌱 have good knowledge of **Data Analytics, MSSQLSERVER, MySql, Python, Excel, Powerbi**
+- 🌱I have good knowledge of **Data Analytics, MSSQLSERVER, MySql, Python, Excel, Powerbi**
 
 - Hi there, Atchuth Kumar Reddy Danda
 
