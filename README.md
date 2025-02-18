@@ -1,7 +1,7 @@
-<h3 align="center">A passionate Learner from India</h3>
+<h3 align="center">A passionate Data Enthusiastic from India </h3>
 
 - Hi there, Atchuth Kumar Reddy Danda
--  🌱I have good knowledge of **Data Analytics, MSSQLSERVER, MySql, Python, Excel, Powerbi**
+-  🌱I have good knowledge of **Data Analytics,DataScience, MSSQLSERVER, MySql, Python, Excel, Powerbi,NLP,Statistics**
 
 About :
 
